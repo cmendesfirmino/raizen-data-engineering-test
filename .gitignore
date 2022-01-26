@@ -1,0 +1,9 @@
+dev/*
+data/clean/*
+data/raw/*
+data/stage/*
+venv/*
+.ipynb_checkpoints/*
+logs/*
+dags/__pycache__/*
+dags/scripts/__pycache__/*
